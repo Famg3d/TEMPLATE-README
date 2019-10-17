@@ -40,4 +40,4 @@ Underline 2
 
 [Esto es un link ]("http://google.cl")
 
-[Esto es un link de un archivo del git]("text.txt")
+[Esto es un link de un archivo del git](text.txt)
